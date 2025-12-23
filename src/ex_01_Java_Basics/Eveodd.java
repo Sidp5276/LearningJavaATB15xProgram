@@ -1,6 +1,7 @@
 package ex_01_Java_Basics;
-
+//Check if a number is even or odd.
 import java.util.Scanner;
+
 public class Eveodd {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
