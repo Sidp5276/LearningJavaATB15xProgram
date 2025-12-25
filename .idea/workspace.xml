@@ -5,10 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="62f0f8be-e9ce-4b8c-8019-354126628974" name="Changes" comment="init commit">
-      <change afterPath="$PROJECT_DIR$/src/ex_01_Java_Basics/Lab004_Numbercheck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_01_Java_Basics/Lab001_Hello_world2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_01_Java_Basics/Lab002_PositiveNegative.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_01_Java_Basics/Lab002_PositiveNegative.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_01_Java_Basics/Lab003_Eveodd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_01_Java_Basics/Lab003_Eveodd.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_01_Java_Basics/Lab001_HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_00_java_Programs/Lab001_HelloWorld.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_01_Java_Basics/Lab002_PositiveNegative.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_00_java_Programs/Lab002_PositiveNegative.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_01_Java_Basics/Lab003_Eveodd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_00_java_Programs/Lab003_Eveodd.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_01_Java_Basics/Lab004_Numbercheck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_00_java_Programs/Lab004_Numbercheck.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,8 +57,11 @@
   "keyToString": {
     "Application.Eveodd.executor": "Run",
     "Application.Lab001_HelloWorld.executor": "Run",
+    "Application.Lab001_Hello_world2.executor": "Run",
+    "Application.Lab002_Hello_world2.executor": "Run",
     "Application.Lab002_Print_table.executor": "Run",
     "Application.Lab002_Printf_table.executor": "Run",
+    "Application.Lab003_Ternary.executor": "Run",
     "Application.Lab004_Numbercheck.executor": "Run",
     "Application.PositiveNegative.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
@@ -118,7 +123,23 @@
       <option name="project" value="LOCAL" />
       <updated>1766478483670</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="init commit">
+      <option name="closed" value="true" />
+      <created>1766482952147</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1766482952147</updated>
+    </task>
+    <task id="LOCAL-00007" summary="init commit">
+      <option name="closed" value="true" />
+      <created>1766679924054</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1766679924054</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

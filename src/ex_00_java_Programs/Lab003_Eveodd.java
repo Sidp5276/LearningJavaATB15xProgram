@@ -1,8 +1,8 @@
-package ex_01_Java_Basics;
+package ex_00_java_Programs;
 //Check if a number is even or odd.
 import java.util.Scanner;
 
-public class Eveodd {
+public class Lab003_Eveodd {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int a = sc.nextInt();

@@ -1,4 +1,4 @@
-package ex_01_Java_Basics;
+package ex_00_java_Programs;
 //Check if a number is divided by 5.
 
 import java.util.Scanner;
