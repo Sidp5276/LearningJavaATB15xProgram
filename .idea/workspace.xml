@@ -5,12 +5,31 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="62f0f8be-e9ce-4b8c-8019-354126628974" name="Changes" comment="init commit">
-      <change afterPath="$PROJECT_DIR$/src/ex_01_Java_Basics/Lab001_Hello_world2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_02_Variable_Datatypes/LAb_004_Comments.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_02_Variable_Datatypes/Lab_003_No_Method.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_02_Variable_Datatypes/Lab_005_Comments_multi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_02_Variable_Datatypes/Lab_006_Comments.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_02_Variable_Datatypes/Lab_007_Keyword_Identifiers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_02_Variable_Datatypes/Lab_008_Basic_class_Name.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_02_Variable_Datatypes/Lab_09_Common_Math_Exception.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_02_Variable_Datatypes/Lab_10_Println_Print.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_02_Variable_Datatypes/Lab_11_Main_Method.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_02_Variable_Datatypes/Lab_12_Variables.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_02_Variable_Datatypes/Lab_13_Variables.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_02_Variable_Datatypes/Lab_14_variables.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_02_Variable_Datatypes/Lab_15_Long_IQ.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_02_Variable_Datatypes/Lab_16_QnA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_02_Variable_Datatypes/Lab_17_QnA2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_02_Variable_Datatypes/Lab_18_Boolean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_02_Variable_Datatypes/Lab_19_Numerics_data_types.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_02_Variable_Datatypes/Lab_20_Byte.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_02_Variable_Datatypes/Lab_21_Printf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_02_Variable_Datatypes/Lab_22_Constants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_02_Variable_Datatypes/Lab_23_Local_variables.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_02_Variable_Datatypes/Lab_24_Multiple_variables.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_02_Variable_Datatypes/Lab_25_Final_example.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_03_Literals/Lab_26_Literalsp1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_01_Java_Basics/Lab001_HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_00_java_Programs/Lab001_HelloWorld.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_01_Java_Basics/Lab002_PositiveNegative.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_00_java_Programs/Lab002_PositiveNegative.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_01_Java_Basics/Lab003_Eveodd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_00_java_Programs/Lab003_Eveodd.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_01_Java_Basics/Lab004_Numbercheck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_00_java_Programs/Lab004_Numbercheck.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +39,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Exception" />
         <option value="Class" />
       </list>
     </option>
@@ -63,6 +83,19 @@
     "Application.Lab002_Printf_table.executor": "Run",
     "Application.Lab003_Ternary.executor": "Run",
     "Application.Lab004_Numbercheck.executor": "Run",
+    "Application.Lab_003_No_Method.executor": "Run",
+    "Application.Lab_008_Basic_class_Name.executor": "Run",
+    "Application.Lab_09_Common_Math_Exception.executor": "Run",
+    "Application.Lab_10_Println_Print.executor": "Run",
+    "Application.Lab_11_Main_Method.executor": "Run",
+    "Application.Lab_12_Variables.executor": "Run",
+    "Application.Lab_13_Variables.executor": "Run",
+    "Application.Lab_14_variables.executor": "Run",
+    "Application.Lab_15_Long_IQ.executor": "Run",
+    "Application.Lab_16_QnA.executor": "Run",
+    "Application.Lab_17_QnA2.executor": "Run",
+    "Application.Lab_19_Numerics_data_types.executor": "Run",
+    "Application.Lab_25_Final_example.executor": "Run",
     "Application.PositiveNegative.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
