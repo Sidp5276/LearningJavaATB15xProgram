@@ -5,30 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="62f0f8be-e9ce-4b8c-8019-354126628974" name="Changes" comment="init commit">
-      <change afterPath="$PROJECT_DIR$/src/ex_02_Variable_Datatypes/LAb_004_Comments.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_02_Variable_Datatypes/Lab_003_No_Method.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_02_Variable_Datatypes/Lab_005_Comments_multi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_02_Variable_Datatypes/Lab_006_Comments.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_02_Variable_Datatypes/Lab_007_Keyword_Identifiers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_02_Variable_Datatypes/Lab_008_Basic_class_Name.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_02_Variable_Datatypes/Lab_09_Common_Math_Exception.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_02_Variable_Datatypes/Lab_10_Println_Print.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_02_Variable_Datatypes/Lab_11_Main_Method.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_02_Variable_Datatypes/Lab_12_Variables.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_02_Variable_Datatypes/Lab_13_Variables.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_02_Variable_Datatypes/Lab_14_variables.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_02_Variable_Datatypes/Lab_15_Long_IQ.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_02_Variable_Datatypes/Lab_16_QnA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_02_Variable_Datatypes/Lab_17_QnA2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_02_Variable_Datatypes/Lab_18_Boolean.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_02_Variable_Datatypes/Lab_19_Numerics_data_types.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_02_Variable_Datatypes/Lab_20_Byte.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_02_Variable_Datatypes/Lab_21_Printf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_02_Variable_Datatypes/Lab_22_Constants.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_02_Variable_Datatypes/Lab_23_Local_variables.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_02_Variable_Datatypes/Lab_24_Multiple_variables.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_02_Variable_Datatypes/Lab_25_Final_example.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_03_Literals/Lab_26_Literalsp1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task/Lab_004_Triangles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task/Lab_005_FizzBuzz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task/Lab_006_Grade.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -84,6 +63,9 @@
     "Application.Lab003_Ternary.executor": "Run",
     "Application.Lab004_Numbercheck.executor": "Run",
     "Application.Lab_003_No_Method.executor": "Run",
+    "Application.Lab_004_Triangles.executor": "Run",
+    "Application.Lab_005_FizzBuzz.executor": "Run",
+    "Application.Lab_006_Grade.executor": "Run",
     "Application.Lab_008_Basic_class_Name.executor": "Run",
     "Application.Lab_09_Common_Math_Exception.executor": "Run",
     "Application.Lab_10_Println_Print.executor": "Run",
@@ -96,6 +78,7 @@
     "Application.Lab_17_QnA2.executor": "Run",
     "Application.Lab_19_Numerics_data_types.executor": "Run",
     "Application.Lab_25_Final_example.executor": "Run",
+    "Application.Lab_26_Literalsp1.executor": "Run",
     "Application.PositiveNegative.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -172,7 +155,15 @@
       <option name="project" value="LOCAL" />
       <updated>1766679924054</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="init commit">
+      <option name="closed" value="true" />
+      <created>1766746936438</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1766746936438</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
