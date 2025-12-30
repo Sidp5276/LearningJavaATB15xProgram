@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="62f0f8be-e9ce-4b8c-8019-354126628974" name="Changes" comment="init commit">
-      <change afterPath="$PROJECT_DIR$/src/ex_04_Operators/Lab_51_Interview_Short_CHAR.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_05_TypeCasting/Lab_53_TypeCasting0.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_04_Operators/Lab_52_Interview_Short_CHAR.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_04_Operators/Lab_52_Interview_Short_CHAR.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,6 +89,7 @@
     "Application.Lab_49_Interview.executor": "Run",
     "Application.Lab_50_IntCHAR.executor": "Run",
     "Application.Lab_51_InterviewCHAR.executor": "Run",
+    "Application.Lab_51_Interview_Short_CHAR.executor": "Run",
     "Application.PositiveNegative.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -364,7 +366,15 @@
       <option name="project" value="LOCAL" />
       <updated>1767105078167</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="init commit">
+      <option name="closed" value="true" />
+      <created>1767105146778</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1767105146779</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
