@@ -1,6 +1,6 @@
 package ex_07_Increment_Decrement_Op;
 
-public class Lab_68_Post_Id {
+public class Lab_67_Post_Id {
     public static void main(String[] args) {
 //        int a = 10;
 //        System.out.println(++a);

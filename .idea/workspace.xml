@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="62f0f8be-e9ce-4b8c-8019-354126628974" name="Changes" comment="init commit">
-      <change afterPath="$PROJECT_DIR$/src/ex_05_TypeCasting/Lab_53_TypeCasting0.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_07_Increment_Decrement_Op/Lab_68_Post_Id.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_04_Operators/Lab_52_Interview_Short_CHAR.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_04_Operators/Lab_52_Interview_Short_CHAR.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,57 +50,57 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Eveodd.executor": "Run",
-    "Application.Lab001_HelloWorld.executor": "Run",
-    "Application.Lab001_Hello_world2.executor": "Run",
-    "Application.Lab002_Hello_world2.executor": "Run",
-    "Application.Lab002_Print_table.executor": "Run",
-    "Application.Lab002_Printf_table.executor": "Run",
-    "Application.Lab003_Ternary.executor": "Run",
-    "Application.Lab004_Numbercheck.executor": "Run",
-    "Application.Lab_003_No_Method.executor": "Run",
-    "Application.Lab_004_Triangles.executor": "Run",
-    "Application.Lab_005_FizzBuzz.executor": "Run",
-    "Application.Lab_006_Grade.executor": "Run",
-    "Application.Lab_008_Basic_class_Name.executor": "Run",
-    "Application.Lab_09_Common_Math_Exception.executor": "Run",
-    "Application.Lab_10_Println_Print.executor": "Run",
-    "Application.Lab_11_Main_Method.executor": "Run",
-    "Application.Lab_12_Variables.executor": "Run",
-    "Application.Lab_13_Variables.executor": "Run",
-    "Application.Lab_14_variables.executor": "Run",
-    "Application.Lab_15_Long_IQ.executor": "Run",
-    "Application.Lab_16_QnA.executor": "Run",
-    "Application.Lab_17_QnA2.executor": "Run",
-    "Application.Lab_19_Numerics_data_types.executor": "Run",
-    "Application.Lab_25_Final_example.executor": "Run",
-    "Application.Lab_26_Literalsp1.executor": "Run",
-    "Application.Lab_28_LiteralsP3.executor": "Run",
-    "Application.Lab_31_Char_Literals.executor": "Run",
-    "Application.Lab_32_Non_Primitive_Literals.executor": "Run",
-    "Application.Lab_35_Unary_Operator.executor": "Run",
-    "Application.Lab_43_Interview.executor": "Run",
-    "Application.Lab_44_OR_AND_GATE.executor": "Run",
-    "Application.Lab_46_All_Operators.executor": "Run",
-    "Application.Lab_48_Instanceof_Operators.executor": "Run",
-    "Application.Lab_49_Interview.executor": "Run",
-    "Application.Lab_50_IntCHAR.executor": "Run",
-    "Application.Lab_51_InterviewCHAR.executor": "Run",
-    "Application.Lab_51_Interview_Short_CHAR.executor": "Run",
-    "Application.PositiveNegative.executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "C:/Users/hp/IdeaProjects/LearningJavaATB15Xprogram/src/Main.java",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Eveodd.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab001_HelloWorld.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab001_Hello_world2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab002_Hello_world2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab002_Print_table.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab002_Printf_table.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab003_Ternary.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab004_Numbercheck.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab_003_No_Method.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab_004_Triangles.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab_005_FizzBuzz.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab_006_Grade.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab_008_Basic_class_Name.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab_09_Common_Math_Exception.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab_10_Println_Print.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab_11_Main_Method.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab_12_Variables.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab_13_Variables.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab_14_variables.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab_15_Long_IQ.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab_16_QnA.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab_17_QnA2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab_19_Numerics_data_types.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab_25_Final_example.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab_26_Literalsp1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab_28_LiteralsP3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab_31_Char_Literals.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab_32_Non_Primitive_Literals.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab_35_Unary_Operator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab_43_Interview.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab_44_OR_AND_GATE.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab_46_All_Operators.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab_48_Instanceof_Operators.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab_49_Interview.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab_50_IntCHAR.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab_51_InterviewCHAR.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab_51_Interview_Short_CHAR.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PositiveNegative.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/hp/IdeaProjects/LearningJavaATB15Xprogram/src/Main.java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="62f0f8be-e9ce-4b8c-8019-354126628974" name="Changes" comment="" />
@@ -374,7 +373,119 @@
       <option name="project" value="LOCAL" />
       <updated>1767105146779</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="init commit">
+      <option name="closed" value="true" />
+      <created>1767105596891</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1767105596897</updated>
+    </task>
+    <task id="LOCAL-00035" summary="init commit">
+      <option name="closed" value="true" />
+      <created>1767186398012</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1767186398012</updated>
+    </task>
+    <task id="LOCAL-00036" summary="init commit">
+      <option name="closed" value="true" />
+      <created>1767186507295</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1767186507295</updated>
+    </task>
+    <task id="LOCAL-00037" summary="init commit">
+      <option name="closed" value="true" />
+      <created>1767186557393</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1767186557393</updated>
+    </task>
+    <task id="LOCAL-00038" summary="init commit">
+      <option name="closed" value="true" />
+      <created>1767186636849</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1767186636849</updated>
+    </task>
+    <task id="LOCAL-00039" summary="init commit">
+      <option name="closed" value="true" />
+      <created>1767186780200</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1767186780200</updated>
+    </task>
+    <task id="LOCAL-00040" summary="init commit">
+      <option name="closed" value="true" />
+      <created>1767186825895</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1767186825895</updated>
+    </task>
+    <task id="LOCAL-00041" summary="init commit">
+      <option name="closed" value="true" />
+      <created>1767186888471</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1767186888472</updated>
+    </task>
+    <task id="LOCAL-00042" summary="init commit">
+      <option name="closed" value="true" />
+      <created>1767186940876</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1767186940876</updated>
+    </task>
+    <task id="LOCAL-00043" summary="init commit">
+      <option name="closed" value="true" />
+      <created>1767186979806</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1767186979806</updated>
+    </task>
+    <task id="LOCAL-00044" summary="init commit">
+      <option name="closed" value="true" />
+      <created>1767187056650</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1767187056650</updated>
+    </task>
+    <task id="LOCAL-00045" summary="init commit">
+      <option name="closed" value="true" />
+      <created>1767187133604</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1767187133604</updated>
+    </task>
+    <task id="LOCAL-00046" summary="init commit">
+      <option name="closed" value="true" />
+      <created>1767187181895</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1767187181895</updated>
+    </task>
+    <task id="LOCAL-00047" summary="init commit">
+      <option name="closed" value="true" />
+      <created>1767187332265</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1767187332265</updated>
+    </task>
+    <option name="localTasksCounter" value="48" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
