@@ -1,0 +1,12 @@
+package TEST;
+
+public class Q9_DoWhile {
+        public static void main(String[] args) {
+            int i = 1;
+
+            do {
+                System.out.println(i);
+                i++;
+            } while (i <= 10);
+        }
+    }
