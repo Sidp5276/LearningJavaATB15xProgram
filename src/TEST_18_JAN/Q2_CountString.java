@@ -2,8 +2,7 @@ package TEST_18_JAN;
 
 import java.util.Scanner;
 
-    import java.util.Scanner;
-    public class Q1_CountString {
+public class Q2_CountString {
         public static void main(String[] args){
             Scanner sc = new Scanner(System.in);
             System.out.println("Enter a string: ");
