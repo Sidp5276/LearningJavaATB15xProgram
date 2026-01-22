@@ -1,10 +1,9 @@
 package ex_17_OOPs;
 
 public class Lab_164_Constructor {
-    public static void main(String[] args) {
 
         public static void main(String[] args) {
-            Animal dog = new Animal();
+            Lab_162_Animal dog = new Lab_162_Animal();
             MySQL a = new MySQL();
             ReadExcelFile e = new ReadExcelFile();
 
@@ -23,4 +22,3 @@ public class Lab_164_Constructor {
             System.out.println("ExcelFile is Loaded!");
     }
     }
-}
