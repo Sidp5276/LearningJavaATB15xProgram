@@ -1,0 +1,5 @@
+package ex_22_ENUM;
+
+public enum Day {
+    SUNDAY, MONDAY, TUESDAY, WEDNESDAY, THURSDAY, FRIDAY, SATURDAY
+}
