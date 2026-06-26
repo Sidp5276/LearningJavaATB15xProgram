@@ -1,4 +1,4 @@
-# ☕ Learning Java ATB15x Program
+#  Learning Java ATB15x Program
 
 A comprehensive Java learning repository covering Core Java concepts, Object-Oriented Programming, Collections, Exception Handling, and hands-on coding exercises. This repository contains structured examples, practice programs, and interview-oriented problems implemented while learning Java.
 
